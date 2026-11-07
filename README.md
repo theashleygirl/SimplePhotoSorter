@@ -6,7 +6,7 @@ Two small Python scripts built on [Pillow](https://python-pillow.github.io/).
 
 ## Install
 
-Requires Python 3.10+ (Pillow 13).
+Requires Python 3.11+ (Pillow 13).
 
 ```sh
 pip install -r requirements.txt
